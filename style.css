@@ -1,0 +1,49 @@
+<style>
+body {
+ background: pink; 
+color: black; 
+border: 2px solid white;
+border-radius: 10px;
+}
+h1 { 
+background: yellow; 
+color: red; 
+ width: 30px;
+  }
+h2 {
+ background: yellow; 
+color: red; 
+width: 30px;
+}
+nav a {
+background: black;
+color: white; 
+ display-decoration: none; 
+ display: flex; 
+ align-items: flex-end; 
+}
+header. {
+ background: yellow;
+  color: red; 
+}
+main {
+ background: skyblue;
+  color: blue; 
+}
+footer {
+ background: blue; 
+color: black; 
+}
+#home  {
+ background: skyblue;
+ color: black; 
+
+#contact {
+ background: yellow; 
+ color: black; 
+  display-decoration: none;
+  display: flex; 
+  align-items: center; 
+}
+  </body>
+  </style>
